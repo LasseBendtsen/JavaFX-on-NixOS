@@ -21,8 +21,8 @@ Download the JavaFX SDK for your platform from [GluonHQ](https://gluonhq.com/pro
 
 ## 2. Place the nix-shell provided `shell.nix`
 
-Place it somewhere you like, such as /home/user/nix-shells/javafx/
-Run it as nix-shell, first time it will download resources
+Place it somewhere you like, such as /home/user/nix-shells/javafx/ \n
+Run it as "nix-shell", first time it will download resources
 
 you can replace the pkgs.jdk21 with something else if you use another version, and add additional libraries if you need
 
