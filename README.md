@@ -14,7 +14,10 @@ Ideal for the project in Object Oriented Programming. If you use JavaFX
 
 Download the JavaFX SDK for your platform from [GluonHQ](https://gluonhq.com/products/javafx/), and extract it into your project:
 
-<pre> ``` project-root/ ├── src/ │ ├── main/ │ │ ├── java/ │ │ └── resources/ ├── javafx-sdk-21/ │ └── lib/ ├── build.sh ├── shell.nix ``` </pre>
+<pre> ``` project-root/ 
+    my-javafx-project/
+    ├── javafx-sdk-21/
+    │ └── lib/ ``` </pre>
 
 ## 2. Place the nix-shell provided `shell.nix`
 
